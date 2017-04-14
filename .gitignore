@@ -1,3 +1,8 @@
+*.swp
+bin/
+include/generated/
+obj/
+
 # Object files
 *.o
 *.ko
