@@ -1,6 +1,6 @@
 # uld-fdpic
 A bare-metal dynamic linker/loader/relocator for the ARM Cortex-M3 and M4
-architecture using the FDPIC (function descriptor position independent code)
+cores using the FDPIC (function descriptor position independent code)
 ABI.  The FDPIC ABI requires using a fork of GCC and binutils developed by
 [STMicroelectronics](http://www.st.com) which is further modified to add an
 embedded target (see [References](#references) forked repositories).  The
